@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesktopTestApp", "DesktopTestApp\DesktopTestApp.csproj", "{97F1B943-EDB8-4A8B-86FE-071FA871E5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{048FDA18-8112-43A3-82E8-B68A6B5288C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{048FDA18-8112-43A3-82E8-B68A6B5288C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalaxyWatchApp", "GalaxyWatchApp\GalaxyWatchApp.csproj", "{34F3ED2D-65C1-4341-ACEA-B2885E634018}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{048FDA18-8112-43A3-82E8-B68A6B5288C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{048FDA18-8112-43A3-82E8-B68A6B5288C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{048FDA18-8112-43A3-82E8-B68A6B5288C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F3ED2D-65C1-4341-ACEA-B2885E634018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F3ED2D-65C1-4341-ACEA-B2885E634018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F3ED2D-65C1-4341-ACEA-B2885E634018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F3ED2D-65C1-4341-ACEA-B2885E634018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
