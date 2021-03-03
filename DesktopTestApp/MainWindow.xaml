@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Image x:Name="BarcodeImage" HorizontalAlignment="Left" Height="100" Margin="363,177,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="363,305,0,0" VerticalAlignment="Top" Height="35" Width="98" Click="Button_Click"/>
+        <Label Content="Значення баркоду" Name="BarcodeValueLabel" HorizontalAlignment="Center" Margin="0,177,0,0" VerticalAlignment="Top" Width="184"/>
 
     </Grid>
 </Window>
